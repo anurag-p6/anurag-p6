@@ -24,3 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-p6&show_icons=true&locale=en&layout=compact" alt="anurag-p6" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-p6&show_icons=true&locale=en" alt="anurag-p6" /></p>
+
