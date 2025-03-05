@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anurag Pandey</h1>
+<h1 align="center">Namaste World! 🙏, I'm Anurag Pandey</h1>
 <h3 align="center">A passionate MERN developer from Mumbai,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-p6&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-p6" /> </p>
