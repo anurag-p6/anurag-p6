@@ -1,5 +1,5 @@
 <h1 align="center">Namaste World! 🙏, I'm Anurag Pandey</h1>
-<h3 align="center">A passionate MERN developer from Mumbai,India</h3>
+<h3 align="center">A passionate Full Stack developer from Mumbai,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-p6&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-p6" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/stoicannu" target="blank"><img src="https://img.shields.io/twitter/follow/stoicannu?logo=twitter&style=for-the-badge" alt="stoicannu" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web3**
 
 - 👯 I’m looking to collaborate on **Hackathons,Open Source Contribution**
 
