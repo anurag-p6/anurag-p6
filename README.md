@@ -34,7 +34,9 @@ src="https://img.shields.io/twitter/follow/stoicannu?logo=twitter&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/anurag-p6"><img src="https://github-readme-stats.vercel.app/api?username=anurag-p6&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=a855f7&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="anurag-p6's GitHub stats" /></a>
+<a href="http://www.github.com/anurag-p6">
+  <img src="https://github-readme-stats.vercel.app/api?username=anurag-p6&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&text_color=a855f7&title_color=3382ed" alt="anurag-p6's GitHub stats" />
+</a>
 
 <a href="http://www.github.com/anurag-p6"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-p6&stroke=a855f7&background=000000&ring=3382ed&fire=3382ed&currStreakNum=a855f7&currStreakLabel=3382ed&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
