@@ -35,14 +35,16 @@ src="https://img.shields.io/twitter/follow/stoicannu?logo=twitter&style=for-the-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/anurag-p6">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag-p6&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&text_color=a855f7&title_color=3382ed" alt="anurag-p6's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anurag-p6&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="anurag-p6's GitHub stats" />
 </a>
 
-<a href="http://www.github.com/anurag-p6"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-p6&stroke=a855f7&background=000000&ring=3382ed&fire=3382ed&currStreakNum=a855f7&currStreakLabel=3382ed&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+![](https://nirzak-streak-stats.vercel.app/?user=anurag-p6&theme=tokyonight&hide_border=false)<br/>
 
-<a href="http://www.github.com/anurag-p6"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=anurag-p6&bg_color=000000&color=a855f7&line=84cc16&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-p6&layout=compact&theme=radical" alt="anurag-p6" /></p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anurag-p6&theme=react)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-p6&layout=compact&theme=radical)
 
 
 <b>Top Repositories</b>
