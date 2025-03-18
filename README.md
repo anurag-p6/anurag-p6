@@ -46,7 +46,7 @@ src="https://img.shields.io/twitter/follow/stoicannu?logo=twitter&style=for-the-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-p6&layout=compact&theme=radical)
 
-![GitHub Snake](https://raw.githubusercontent.com/anurag-p6/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/anurag-p6/anurag-p6/output/github-contribution-grid-snake.svg)
 
 
 <b>Top Repositories</b>
