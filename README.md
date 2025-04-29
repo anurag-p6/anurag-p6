@@ -51,4 +51,4 @@ src="https://img.shields.io/twitter/follow/stoicannu?logo=twitter&style=for-the-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/anurag-p6/urMentor-Frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag-p6&repo=urMentor-Frontend&title_color=3382ed&text_color=a855f7&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/anurag-p6/Clash-of-Aspirants" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag-p6&repo=Clash-of-Aspirants&title_color=3382ed&text_color=a855f7&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
