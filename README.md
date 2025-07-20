@@ -15,7 +15,7 @@ Hey there I'm Anurag a guy who is not built for tech, but building good tech dri
 
 <a href="https://www.github.com/anurag-p6" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anurag-p6?logo=github&style=for-the-badge&color=84cc16&labelColor=000000" /></a><a href="https://www.x.com/anuragptwt" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/followers/anuragptwt?logo=twitter&style=for-the-badge&color=84cc16&labelColor=000000"
+src="https://img.shields.io/twitter/follow/anuragptwt?logo=twitter&style=for-the-badge&color=84cc16&labelColor=000000"
 /></a>
 
 ### Skills
