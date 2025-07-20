@@ -4,18 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Web3 Enthusiast
 ---------------------------------
 
-I've been coding the robust backend in node.js and express, also frontend in React.js. I'm learning the Next.js while building my project and I would love to contribute on open source.
+Hey there I'm Anurag a guy who is not built for tech, but building good tech driven by passion and effort.
 
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [Portfolio](http://anurag-p6.github.io/Portfolio/)
 * ✉️  You can contact me at [pandeyanurag3359@gmail.com](mailto:pandeyanurag3359@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm on chain
 * 🤝  I'm open to collaborating on Hackathons and web3 projects
-* ⚡  I make bad jokes.. don't tell anybody
+* ⚡  I make good jokes you laugh for hours(If we are friends)
 
 <a href="https://www.github.com/anurag-p6" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/anurag-p6?logo=github&style=for-the-badge&color=84cc16&labelColor=000000" /></a><a href="https://www.x.com/stoicannu" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/stoicannu?logo=twitter&style=for-the-badge&color=84cc16&labelColor=000000"
+src="https://img.shields.io/github/followers/anurag-p6?logo=github&style=for-the-badge&color=84cc16&labelColor=000000" /></a><a href="https://www.x.com/anuragptwt" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/anuragptwt?logo=twitter&style=for-the-badge&color=84cc16&labelColor=000000"
 /></a>
 
 ### Skills
