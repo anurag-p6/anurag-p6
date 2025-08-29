@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is Anurag Pandey
 =====================================================================================================================================
 
-Web Developer
+Blockchain Dev
 ---------------------------------
 
 Hey there I'm Anurag a guy who is not built for tech, but building good tech driven by passion and effort.
