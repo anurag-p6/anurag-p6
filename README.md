@@ -13,7 +13,7 @@ Hey there I'm Anurag a guy who is not built for tech, but building good tech dri
 * 🧠  I'm on chain
 * 🤝  I'm open to collaborating on Hackathons and web3 projects
 * ⚡  I make good jokes you laugh for hours(If we are friends)
-* 
+
 ## 💰 Support Me
 If you’d like to send crypto, you can use my ENS address:
 **0xAnurag.eth**
