@@ -2,10 +2,7 @@
   <img src="banner.png" alt="Repository banner" width="1000"/>
 </p>
 
-21, blockchain dev. artistic mindset
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anurag-p6&theme=react)
+21, blockchain dev. full stack on weekends
 
 ![GitHub Snake](https://raw.githubusercontent.com/anurag-p6/anurag-p6/output/github-snake.svg)
 
