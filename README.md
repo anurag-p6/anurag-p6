@@ -1,4 +1,6 @@
-<p align="center">
+Engineer. I build what interests me.
+
+<!-- <p align="center">
   <img src="banner.png" alt="Repository banner" width="1000"/>
 </p>
 
@@ -10,4 +12,4 @@
   <img src="https://komarev.com/ghpvc/?username=anurag-p6&label=Profile%20Views&color=6FA8DC&style=flat" alt="Profile view counter" />
 </p>
 
-![GitHub Snake](https://raw.githubusercontent.com/anurag-p6/anurag-p6/output/github-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/anurag-p6/anurag-p6/output/github-snake.svg) -->
