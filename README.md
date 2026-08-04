@@ -4,7 +4,7 @@ Engineer. I build what interests me.
   <img src="banner.png" alt="Repository banner" width="1000"/>
 </p>
 
-21, Rustacean 🦀. Full stack blockchain dev
+21, Full stack blockchain dev
 
 ## Profile Views
 
